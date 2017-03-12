@@ -1,0 +1,13 @@
+<litepal>
+     <dbName value= "CYWeather"/>
+    <version value="1"/>
+    <list>
+  <mapping class="db.City"/>
+        <mapping class="db.County"/>
+        <mapping class="db.Province"/>
+
+    </list>
+
+
+
+</litepal>
